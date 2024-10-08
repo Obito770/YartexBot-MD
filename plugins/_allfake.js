@@ -7,7 +7,7 @@ const { generateWAMessageFromContent, prepareWAMessageMedia, proto } = pkg
 
 var handler = m => m
 handler.all = async function (m) {
-
+let gatanina = des
 global.getBuffer = async function getBuffer(url, options) {
 try {
 options ? options : {}
@@ -42,7 +42,7 @@ global.fgclink = { key: { fromMe: false, participant: "0@s.whatsapp.net", remote
 
 global.fdocs = { key: { participant : "0@s.whatsapp.net" }, message: { documentMessage: { title: wm, jpegThumbnail: imagen1}}}
 
-global.ftoko = { key: { fromMe: false, participant: "0@s.whatsapp.net", ...(m.chat ? { remoteJid: "17608914335@s.whatsapp.net" } : {})}, message: { productMessage: { product: { productImage: { mimetype: "image/jpeg", jpegThumbnail: imagen1}, title: wm,  description: gatanina, currencyCode: "USD", priceAmount1000: "99999999", retailerId: "Ghost", productImageCount: 1 }, businessOwnerJid: "0@s.whatsapp.net" }}}
+global.ftoko = { key: { fromMe: false, participant: "0@s.whatsapp.net", ...(m.chat ? { remoteJid: "17608914335@s.whatsapp.net" } : {})}, message: { productMessage: { product: { productImage: { mimetype: "image/jpeg", jpegThumbnail: imagen1}, title: wm,  description: des, currencyCode: "USD", priceAmount1000: "99999999", retailerId: "Ghost", productImageCount: 1 }, businessOwnerJid: "0@s.whatsapp.net" }}}
 
 global.fimg = { key: { participant: "0@s.whatsapp.net" }, message: { imageMessage: { url: ig, mimetype: "image/jpeg", fileLength: fsizedoc, height: 306, width: 366, jpegThumbnail: imagen1}}}
 
@@ -111,7 +111,25 @@ global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', s
 global.nombre = conn.getName(m.sender)
 global.taguser = '@' + m.sender.split("@s.whatsapp.net")
 
-global.fake = { contextInfo: { mentionedJid: conn.parseMention(wm), forwardingScore: 1, isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363302472386010@newslette', serverMessageId: '', newsletterName: saludo + ` ${m.name}` }, externalAdReply: { title: wm + ` 💫`, body: dev, mediaType: 1, renderLargerThumbnail: false, previewType: `PHOTO`, thumbnailUrl: random1(), thumbnail: imagen1, sourceUrl: enlaces }}}, { quoted: fkontak } //fake con reenviado de canal
+global.fake = {
+contextInfo: {
+isForwarded: true,
+forwardedNewsletterMessageInfo: {
+newsletterJid: "120363302472386010@newsletter",
+serverMessageId: 100,
+newsletterName: 'YartexBot-MD ✨',
+},
+externalAdReply: { 
+showAdAttribution: true,
+title: packname,
+body: des,
+previewType: "PHOTO",
+thumbnailUrl: random1(),
+sourceUrl: md,
+mediaType: 1,
+renderLargerThumbnail: false
+},},}
+
 }
 
 export default handler

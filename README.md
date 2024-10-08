@@ -96,6 +96,18 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ***
 
+### ☁️ CORINPLUS HOTS 
+<a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
+### Información sobre CorinPlus
+
+- **Dashboard:** [`Aquí`](https://dash.corinplus.com)
+- **Panel:** [`Aquí`](https://ctrl.corinplus.com)
+- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
+- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
+- **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
+  
+***
+
 ### 📦⛏️ BOXMINE HOST 
 [![YouTube](https://img.shields.io/badge/BoxMine_Host-World-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@boxminehost)
 
@@ -111,37 +123,6 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 - **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va71C1q2UPBOICnxu83r)
 
 - [x] **Configuración** <details><summary>**Ajustes del Servidor - YartexBot-MD**</summary><img src="https://telegra.ph/file/1ff9729ad4e18c319bd50.jpg"></details>
-
-***
-
-### 🟢 INFINITY-HOST
-> Activar **YartexBot-MD** 24/7 activo en Infinity-Host
-
-<a href="https://dashboard.infinitywa.xyz"><img src="https://qu.ax/XLCK.jpg" height="125px"></a>
-### Información del Host
-
-- **Página:** [`Click aqui`](https://dashboard.infinitywa.xyz)
-- **Dashboard:** [`Aquí`](https://dashboard.infinitywa.xyz)
-- **Panel:** [`Aquí`](https://live.panel-infinitywa.store)
-- **Grupo de WhatsApp:** [`Aquí`](https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A)
-- **Support:** [`Bot exclusivo`](https://wa.me/message/FETBF7YBO37CG1)
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - YartexBot-MD**</summary><img src="https://telegra.ph/file/4ed8f39a08e62569e766a.jpg"></details>
-
-***
-
-### 💎 FlarexCloud
-> Empiece a usar FlarexCloud para activar **YartexBot-MD**
-
-<a href="https://www.flarex.cloud"><img src="https://cdn.flarex.cloud/deploy.png" height="60px"></a>
-### Información sobre FlarexCloud
-
-- **Página:** [`Aquí`](https://www.flarex.cloud)
-- **Dashboard / Área de Pagos:** [`Aquí`](https://billing.flarex.cloud)
-- **Game Panel:** [`Aquí`](https://gamepanel.flarex.cloud)
-- **Discord:** [`Aquí`](https://discord.flarex.cloud)
-- **Contacto:** [`hi@flarex.cloud`](mailto:hi@flarex.cloud) / [`support@flarex.cloud`](mailto:support@flarex.cloud) / [`partnerships@flarex.cloud`](mailto:partnerships@flarex.cloud)
 
 ***
 
